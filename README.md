@@ -277,4 +277,8 @@ This work was supported by research funding from the Polish Academy of Sciences 
 
 ---
 
+
+
+
+
 *This repository accompanies the research paper "Statistical Structure of Charge Disorder in Si/SiGe Quantum Dots" and provides all necessary code and data for reproducing the results.*
